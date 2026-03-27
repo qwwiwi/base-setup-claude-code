@@ -78,8 +78,3 @@ claude
 
 - [Claude Code документация](https://docs.anthropic.com/en/docs/claude-code)
 - [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
-- [HLAB.SU](https://hlab.su) -- платформа с уроками
-
----
-
-Made with Edge Lab
